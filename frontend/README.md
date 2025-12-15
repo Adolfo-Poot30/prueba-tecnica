@@ -10,3 +10,9 @@ Crea acciones y reducers para iniciar sesión y cerrar sesión.
 Se usó la API gratuita DummyJSON para obtener los datos.
 
 Nota: el manejo de sesiones se guarda en LocalStore debido a que DummyJSON no establece cookies para guardarlo de manera más segura (como HttpOnly Cookie)
+
+Pasos para instalación 
+en consola (en el directorio del proyecto)
+1. npm install
+2. npm run dev
+3. Abrir el link que se muestra en consola
